@@ -18,7 +18,7 @@ I'm open to suggestions!
 
 <b>5.</b> Open <b>Menu</b> again, then <b>Backgrounds</b>. Touch <b>Portrait background</b>, then hit the <b>+</b> button and select the previously extracted <b>maestrosistema.png</b>, name it and press OK, now select it and press OK again
 
-<b>6.</b> Set screens size to <b>1024</b> by touching them and drag them to fit in the overlay. Drag D-Pad, ABXY, Start and Select to overlap the ones on the background, resize them if needed. Put L and R anywhere you want, default position is OK. If you want you can add function buttons like Rewind, Swap Screens, Quick Save, etc. and position them where you want.
+<b>6.</b> Set screens size to <b>1024</b> by touching them and drag them to fit in the overlay. Drag D-Pad, ABXY, Start and Select buttons to overlap the ones on the background, resize them if needed. Put L and R anywhere you want, default position is OK. If you want you can add function buttons like Rewind, Swap Screens, Quick Save, etc. and position them where you want.
 
 Example of Layout positioning:
 
