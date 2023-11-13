@@ -12,7 +12,7 @@ I'm open to suggestions!
 
 <b>2.</b> Download latest release of my overlay and extract <b>maestrosistema.png</b> in any folder of your phone
 
-<b>3.</b> Open melonDS, touch Layouts in Input settings and create a new Layout by clicking on the <b>+</b> button
+<b>3.</b> Open melonDS, touch <b>Layouts</b> in <b>Input</b> settings and create a new Layout by clicking on the <b>+</b> button
 
 <b>4.</b> Touch <b>Menu</b>, then <b>Properties</b>, set <b>Layout orientation</b> to <b>Portrait</b>, disable <b>Use default opacity</b> and set <b>Layout opacity</b> to 0, finally touch OK
 
