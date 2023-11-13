@@ -10,7 +10,7 @@ I'm open to suggestions!
 
 <b>1.</b> Download latest melonDS release.
 
-<b>2.</b> Extract <b>maestrosistema.png</b> in any folder of your phone
+<b>2.</b> Download latest release of my overlay and extract <b>maestrosistema.png</b> in any folder of your phone
 
 <b>3.</b> Open melonDS, touch Layouts in Input settings and create a new Layout by clicking on the <b>+</b> button
 
@@ -22,7 +22,7 @@ I'm open to suggestions!
 
 Example of Layout positioning:
 
-n[My Image](setup.jpg)
+![My Image](setup.jpg)
 
 <b>7.</b> Open <b>Menu</b> then tap <b>Save and exit</b>, give a <b>Layout name</b> and press OK
 
